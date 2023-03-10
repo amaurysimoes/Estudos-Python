@@ -1,0 +1,135 @@
+Relatório de informações sobre o sistema gravado em: 01/06/23 15:40:47
+Nome do sistema: DESKTOP-14S4U6S
+[Resumo do Sistema]
+
+Item	Valor
+Nome do Sistema Operacional	Microsoft Windows 10 Home Single Language
+Versão	10.0.19045 Compilação 19045
+Outra Descrição do Sistema Operacional 	Não disponível
+Fabricante do Sistema Operacional	Microsoft Corporation
+Nome do sistema	DESKTOP-14S4U6S
+Fabricante do sistema	Avell High Performance
+Modelo do sistema	C65 LIV
+Tipo do sistema	PC baseado em X64
+SKU do sistema	C65 LIV
+Processador	Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz, 2208 Mhz, 8 Núcleo(s), 16 Processador(es) Lógico(s)
+Versão/data do BIOS	American Megatrends Inc. N.1.01, 14/04/2020
+Versão do SMBIOS	3.2
+Versão do Controlador Incorporado	1.09
+Modo da BIOS	UEFI
+Fabricante da BaseBoard	Avell High Performance
+Produto BaseBoard	Avell High Performance
+Versão da BaseBoard	Standard
+Função da Plataforma	Móvel
+Estado da Inicialização Segura	Ativado
+Configuração PCR7	Avaliação Necessária para Exibição
+Pasta do Windows	C:\Windows
+Pasta do sistema	C:\Windows\system32
+Dispositivo de inicialização	\Device\HarddiskVolume2
+Localidade	Brasil
+Camada de Abstração de Hardware	Versão = "10.0.19041.2251"
+Nome de usuário	DESKTOP-14S4U6S\AVELL
+Fuso horário	Hora Padrão do leste do Canadá
+Memória Física (RAM) Instalada	64,0 GB
+Memória física total	63,8 GB
+Memória física disponível	56,3 GB
+Memória virtual total	73,3 GB
+Memória virtual disponível	64,5 GB
+Espaço do arquivo de paginação	9,50 GB
+Arquivo de paginação	C:\pagefile.sys
+Proteção de DMA de Kernel	Ativado
+Segurança baseada em virtualização	Não habilitado
+Suporte à Criptografia de Dispositivo	Avaliação Necessária para Exibição
+Hyper-V - Extensões de Modo Monitor VM	Sim
+Hyper-V - Extensões de Conversão de Endereços de Segundo Nível	Sim
+Hyper-V - Virtualização Habilitada no Firmware	Sim
+Hyper-V - Proteção de Execução de Dados	Sim
+
+[Recursos de Hardware]
+
+
+
+[Conflitos/Compartilhamento]
+
+Recurso	Dispositivo
+Endereço de memória 0xA4100000-0xA4AFFFFF	Intel(R) PCI Express Root Port #9 - 06B0
+Endereço de memória 0xA4100000-0xA4AFFFFF	Controlador Padrão NVM Express
+
+Porta de E/S 0x00003000-0x000030FF	Realtek PCIe GbE Family Controller
+Porta de E/S 0x00003000-0x000030FF	Intel(R) PCI Express Root Port #14 - 06B5
+
+Endereço de memória 0xA5500000-0xA5503FFF	Realtek PCIe GbE Family Controller
+Endereço de memória 0xA5500000-0xA5503FFF	Intel(R) PCI Express Root Port #14 - 06B5
+
+Endereço de memória 0xA3000000-0xA3FFFFFF	NVIDIA GeForce RTX 2080 Super with Max-Q Design
+Endereço de memória 0xA3000000-0xA3FFFFFF	Intel(R) PCIe Controller (x16) - 1901
+
+IRQ 16	Intel(R) Serial IO I2C Host Controller - 06E8
+IRQ 16	Controlador de High Definition Audio
+
+Endereço de memória 0x30000000-0x3FFFFFFF	NVIDIA GeForce RTX 2080 Super with Max-Q Design
+Endereço de memória 0x30000000-0x3FFFFFFF	Intel(R) PCIe Controller (x16) - 1901
+
+
+[DMA]
+
+Recurso	Dispositivo	Status
+
+[Hardware forçado]
+
+Dispositivo	Identificação de dispositivo PNP
+
+[E/S]
+
+Recurso	Dispositivo	Status
+0x0000002E-0x0000002F	Recursos da placa-mãe	OK
+0x0000004E-0x0000004F	Recursos da placa-mãe	OK
+0x00000061-0x00000061	Recursos da placa-mãe	OK
+0x00000063-0x00000063	Recursos da placa-mãe	OK
+0x00000065-0x00000065	Recursos da placa-mãe	OK
+0x00000067-0x00000067	Recursos da placa-mãe	OK
+0x00000070-0x00000070	Recursos da placa-mãe	OK
+0x00000080-0x00000080	Recursos da placa-mãe	OK
+0x00000092-0x00000092	Recursos da placa-mãe	OK
+0x000000B2-0x000000B3	Recursos da placa-mãe	OK
+0x00000680-0x0000069F	Recursos da placa-mãe	OK
+0x0000164E-0x0000164F	Recursos da placa-mãe	OK
+0x00007000-0x0000703F	Intel(R) UHD Graphics	OK
+0x00000020-0x00000021	Controlador de interrupção programável	OK
+0x00000024-0x00000025	Controlador de interrupção programável	OK
+0x00000028-0x00000029	Controlador de interrupção programável	OK
+0x0000002C-0x0000002D	Controlador de interrupção programável	OK
+0x00000030-0x00000031	Controlador de interrupção programável	OK
+0x00000034-0x00000035	Controlador de interrupção programável	OK
+0x00000038-0x00000039	Controlador de interrupção programável	OK
+0x0000003C-0x0000003D	Controlador de interrupção programável	OK
+0x000000A0-0x000000A1	Controlador de interrupção programável	OK
+0x000000A4-0x000000A5	Controlador de interrupção programável	OK
+0x000000A8-0x000000A9	Controlador de interrupção programável	OK
+0x000000AC-0x000000AD	Controlador de interrupção programável	OK
+0x000000B0-0x000000B1	Controlador de interrupção programável	OK
+0x000000B4-0x000000B5	Controlador de interrupção programável	OK
+0x000000B8-0x000000B9	Controlador de interrupção programável	OK
+0x000000BC-0x000000BD	Controlador de interrupção programável	OK
+0x000004D0-0x000004D1	Controlador de interrupção programável	OK
+0x00001800-0x000018FE	Recursos da placa-mãe	OK
+0x0000EFA0-0x0000EFBF	Intel(R) SMBus - 06A3	OK
+0x00001854-0x00001857	Recursos da placa-mãe	OK
+0x00004000-0x00004FFF	Intel(R) PCI Express Root Port #9 - 06B0	OK
+0x00003000-0x000030FF	Realtek PCIe GbE Family Controller	OK
+0x00003000-0x000030FF	Intel(R) PCI Express Root Port #14 - 06B5	OK
+0x00000000-0x00000CF7	Complexo da Raiz de PCI Express	OK
+0x00000D00-0x0000FFFF	Complexo da Raiz de PCI Express	OK
+0x00000060-0x00000060	Teclado Padrão PS/2	OK
+0x00000064-0x00000064	Teclado Padrão PS/2	OK
+0x00006000-0x00006FFF	Intel(R) PCIe Controller (x16) - 1901	OK
+0x00007090-0x00007097	Controlador AHCI SATA Padrão	OK
+0x00007080-0x00007083	Controlador AHCI SATA Padrão	OK
+0x00007060-0x0000707F	Controlador AHCI SATA Padrão	OK
+0x000000F0-0x000000F0	Processador de dados numéricos	OK
+0x00002000-0x000020FE	Recursos da placa-mãe	OK
+0x00005000-0x00005FFF	Intel(R) PCI Express Root Port #21 - 06AC	OK
+0x00000062-0x00000062	Microsoft ACPI-Compliant Embedded Controller	OK
+0x00000066-0x00000066	Microsoft ACPI-Compliant Embedded Controller	OK
+0x00000040-0x00000043	Timer do sistema	OK
+0x00000050-0x00000053	Timer do sistema	OK
